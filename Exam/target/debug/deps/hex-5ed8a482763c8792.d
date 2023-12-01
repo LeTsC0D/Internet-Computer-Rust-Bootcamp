@@ -1,0 +1,8 @@
+/media/sss/353e89ef-0f61-40f0-bd14-27337a774f8e/exam/target/debug/deps/libhex-5ed8a482763c8792.rmeta: /home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/lib.rs /home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/error.rs
+
+/media/sss/353e89ef-0f61-40f0-bd14-27337a774f8e/exam/target/debug/deps/libhex-5ed8a482763c8792.rlib: /home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/lib.rs /home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/error.rs
+
+/media/sss/353e89ef-0f61-40f0-bd14-27337a774f8e/exam/target/debug/deps/hex-5ed8a482763c8792.d: /home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/lib.rs /home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/error.rs
+
+/home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/lib.rs:
+/home/sss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hex-0.4.3/src/error.rs:
