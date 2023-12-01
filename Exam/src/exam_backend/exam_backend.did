@@ -9,4 +9,5 @@ service : {
     "insert_exam": (nat64, Exam) -> (opt Exam);
     "insert_participation": (nat64, nat64) -> (opt nat64);
     "greet": (text) -> (text) query;
+    "update_exam": (nat64, Exam) -> (opt Exam);
 }
